@@ -2,4 +2,5 @@
 
 **Tutors**: Matteo Cococcioni, Iurii Timrov, Nicola Colonna, and Edward Linscott
 
-_Placeholder — content to be added._
+- [Hubbard](Hubbard/README.md): Hands-on with Hubbard functionals (DFT+U and DFT+U+V)
+- [Koopmans](Koopmans/README.md): Hands-on with Koopmans functionals
