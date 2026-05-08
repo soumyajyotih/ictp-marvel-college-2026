@@ -2,7 +2,7 @@
     calculation='nscf'
     restart_mode='from_scratch',
     prefix='CoO'
-    pseudo_dir = '../../files/pseudo'
+    pseudo_dir = '../../../files/pseudo'
     outdir='./tmp'
     verbosity='high'
  /
