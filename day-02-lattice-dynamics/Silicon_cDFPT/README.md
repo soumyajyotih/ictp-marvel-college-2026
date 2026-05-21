@@ -10,10 +10,8 @@ The workflow is based on calculations performed with the Quantum ESPRESSO suite 
 
 By completing this tutorial, participants will learn how to:
 
-- perform structural relaxation calculations for crystalline silicon;
-- compare ground-state and excited-state electronic configurations;
-- compute electronic band structures using Quantum ESPRESSO;
-- perform lattice-dynamics calculations using Density-Functional Perturbation Theory (DFPT);
+- perform structural relaxation calculations for excited silicon;
+- compare ground-state and excited-state structural and electronic properties;
 - explore the effect of modified electronic occupations on phonon properties;
 - organize and analyze workflows for excited-state lattice dynamics.
 
@@ -24,7 +22,7 @@ By completing this tutorial, participants will learn how to:
 The tutorial requires:
 
 - Quantum ESPRESSO (`pw.x`, `ph.x`, `bands.x`)
-- A plotting tool such as `gnuplot`
+- A plotting tool such as `gnuplot` and `xmgrace`
 
 ---
 
