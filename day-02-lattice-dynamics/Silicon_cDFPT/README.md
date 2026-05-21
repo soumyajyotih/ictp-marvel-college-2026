@@ -1,6 +1,6 @@
 # Silicon cDFPT Tutorial
 
-This tutorial introduces the use of constrained Density-Functional Perturbation Theory (cDFPT) for studying the electronic and vibrational properties of silicon under modified electronic occupations.
+This tutorial introduces the use of constrained DFT (cDFT) and constraint Density-Functional Perturbation Theory (cDFPT) for studying the electronic and vibrational properties of silicon under modified electronic occupations.
 
 The workflow is based on calculations performed with the Quantum ESPRESSO suite and is organized as a sequence of ground-state, excited-state, band-structure, and phonon calculations.
 
