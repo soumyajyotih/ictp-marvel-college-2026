@@ -79,10 +79,10 @@ tutorials.
 1. [Generate a Yambo SAVE folder](https://yambo-code.github.io/yambo-wiki/tutorials/basic/database_generation.html#database-generation-tutorial-target)
 2. [Initialize the Yambo SAVE folder](https://yambo-code.github.io/yambo-wiki/tutorials/basic/database_initialization.html#database-initialization-tutorial-target)
 3. [Generate input files using Yambo's command-line interface](https://yambo-code.github.io/yambo-wiki/tutorials/basic/input_file_generation.html#input-file-generation-tutorial-target)
-4. [Optics at the independent particle level]([#optics-ipa-tutorial-target](https://yambo-code.github.io/yambo-wiki/tutorials/optics/independent_particle.html#optics-ipa-tutorial-target))
+4. [Optics at the independent particle level](https://yambo-code.github.io/yambo-wiki/tutorials/optics/independent_particle.html#optics-ipa-tutorial-target)
 5. [RPA and local field effects](https://yambo-code.github.io/yambo-wiki/tutorials/optics/local_fields.html#local-fields-tutorial-target)
 
 ### A GW calculation with Yambo
 
-1. [Quasiparticle corrections within the Hartree-Fock approximation]([#hf-on-hbn-tutorial-target](https://yambo-code.github.io/yambo-wiki/tutorials/QP/HF_on_hBN.html#hf-on-hbn-tutorial-target))
-2. [A full GW calculation with Yambo]([#gw-on-hbn-tutorial-target](https://yambo-code.github.io/yambo-wiki/tutorials/QP/GW_on_hBN.html#gw-on-hbn-tutorial-target))
+1. [Quasiparticle corrections within the Hartree-Fock approximation]((https://yambo-code.github.io/yambo-wiki/tutorials/QP/HF_on_hBN.html#hf-on-hbn-tutorial-target)
+2. [A full GW calculation with Yambo](https://yambo-code.github.io/yambo-wiki/tutorials/QP/GW_on_hBN.html#gw-on-hbn-tutorial-target)
