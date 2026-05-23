@@ -1,6 +1,6 @@
 # Many-body perturbation theory: Hands-on session
 
-**Tutors**: M. Bonacci, G. Sesti, C. Borghesi
+**Tutors**: M. Bonacci, C. Borghesi, A. Guandalini, G. Sesti
 
 This page provides the instructions and tutorials for the session dedicated to Yambo.
 
