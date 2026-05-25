@@ -23,6 +23,16 @@ mpirun -np 2 matdyn.x < matdyn.AlAs.in > matdyn.AlAs.out
 
 plotband.x < plotband.AlAs.in > plotband.AlAs.out
 
+Generate fig:
+
 gnuplot plot_dispersion.gp
 
-atril phonon_dispersion.eps 
+xdg-open phonon_dispersion.eps
+
+Interactive plot:
+
+gnuplot
+
+load 'plot_interactive.gp' 
+
+exit 

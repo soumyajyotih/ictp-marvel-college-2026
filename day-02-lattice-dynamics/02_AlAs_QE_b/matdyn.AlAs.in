@@ -1,7 +1,7 @@
  &input
-    asr = ''            ! Specify the Acoustic Sum Rule
-    amass(1) =          ! Specify atomic mass of Al
-    amass(2) =          ! Specify atomic mass of As
+    asr = 'simple'            ! Specify the Acoustic Sum Rule
+    amass(1) = 26.98,
+    amass(2) = 74.92,
     flfrc='AlAs444.fc', 
     flfrq='AlAs.freq'
  /
