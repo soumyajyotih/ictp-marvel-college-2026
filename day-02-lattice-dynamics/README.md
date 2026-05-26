@@ -15,7 +15,7 @@ workon qe
 ### Example 1: Phonons in silicon bulk (`01_Si_QE_a`, `01_Si_QE_b`)
 
 **a) Phonons at the Gamma point**
-Compute the vibrational frequencies of bulk Si at the zone centre using Quantum ESPRESSO (`ph.x`). This gives direct access to the Raman/IR-active modes and is the simplest starting point for a phonon calculation.
+Compute the vibrational frequencies of bulk Si at the zone centre using Quantum ESPRESSO (`ph.x`). This potentially gives direct access to the Raman/IR-active modes and is the simplest starting point for a phonon calculation.
 
 **b) Phonon dispersion**
 Extend the calculation to a uniform **q**-point grid, Fourier-interpolate the interatomic force constants with `q2r.x` and `matdyn.x`, and plot the full phonon band structure along a high-symmetry path.
