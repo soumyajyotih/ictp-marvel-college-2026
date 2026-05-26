@@ -25,4 +25,4 @@ plotband.x < plotband.Si.in > plotband.Si.out
 
 gnuplot plot_dispersion.gp
 
-check out phonon_dispersion.eps! 
+xdg-open phonon_dispersion.eps
