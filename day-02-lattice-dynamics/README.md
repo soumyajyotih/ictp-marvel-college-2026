@@ -37,8 +37,13 @@ Compute and plot the full dispersion for AlAs, including the non-analytic correc
 > **Environment**: this part uses a different Python environment. Deactivate the QE environment first, then activate the MLIP one:
 > ```bash
 > conda deactivate qe
-> workon metatomic
 > ```
+
+Open the notebook in JupyterLab, either launch it from the desktop shortcut, or from the terminal:
+
+```bash
+jupyter-lab 03_phonons_mlip/day2_mlip_ase_eos_relax_phonons.ipynb
+```
 
 Use the **UPET PET-MAD** machine-learning interatomic potential (via ASE) to:
 
@@ -46,8 +51,4 @@ Use the **UPET PET-MAD** machine-learning interatomic potential (via ASE) to:
 2. Relax the unit cell with `FrechetCellFilter` + BFGS and compare the relaxed volume against the EOS minimum.
 3. Compute phonon band structures from finite displacements for both materials along the Γ → X → W → X → Γ → L path and compare with the DFPT results.
 
-Open the notebook in JupyterLab — either launch it from the desktop shortcut, or from the terminal:
 
-```bash
-jupyter-lab 03_phonons_mlip/day2_mlip_ase_eos_relax_phonons.ipynb
-```
