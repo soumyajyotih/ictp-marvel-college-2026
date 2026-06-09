@@ -17,7 +17,7 @@ workon metatomic
 Then launch JupyterLab from the terminal inside this folder:
 
 ```bash
-jupyter lab
+jupyter-lab
 ```
 
 Open the notebook for the exercise you want to work on from the JupyterLab file browser.
