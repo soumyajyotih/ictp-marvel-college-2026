@@ -3,7 +3,7 @@
 Activate the environment for this exercise:
 
 ```bash
-cdd 08
+cdd 8
 cd exercise_3
 workon nmr
 ```
