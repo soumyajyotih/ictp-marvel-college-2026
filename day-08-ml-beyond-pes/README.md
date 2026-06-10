@@ -14,7 +14,7 @@ directory for today's exercises:
 
 ```bash
 update
-cdd 08
+cdd 8
 ```
 
 Each exercise requires its own environment to avoid any versioning conflict. At the top
